@@ -17,4 +17,4 @@ else:
 if erroInixializar:
   sys.exit(1)
 else:
-  sys.exit(9)
+  sys.exit(0)
